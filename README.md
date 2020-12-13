@@ -1,5 +1,3 @@
-# reading-notes
-
 ## Growth Mindset
 \
 ***What is a Mindset?*** &nbsp; Someone's current state towards a subject. The way the person is thinking and/or feeling. A person's attitude or feeling towards something can affect how he/she performs
