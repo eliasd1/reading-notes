@@ -1,4 +1,4 @@
-# What I Learnt About Today 
+
 Dec. 14, 2020
 ## Git and Github
 
