@@ -22,3 +22,20 @@ It keep tracks of any changes made to files, and I can use it to add changes to 
     </ul>
     
 &nbsp; We also learnt how to make our code more readable by using the following tags: nav, main, section, and article. We use these tasks so it can be easier to navigate through our code
+
+    Example code:
+    <nav>
+      <ul>
+        <li>Item</li>
+      </ul>
+    <nav>
+    <main>
+      <header>
+        <h1>Title</h1>
+      </header>
+      <section>
+      </section>
+      <article>
+        <p>A paragraph</p>
+      </article>
+    </main>
