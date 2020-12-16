@@ -25,7 +25,8 @@ Dec. 16, 2020
             }
 
 - In the above example, the number of times the code is executed is determined by the second parameter in the for loop (i < 10)
-# Other Things I Learnt
+
+## Other Things I Learnt
 - Console.log() - used to display information on the console
     - can be useful when debugging code
 - Incrementing/Decrementing variables
