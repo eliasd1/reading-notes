@@ -37,7 +37,7 @@ CSS rules cascade
 Inheritance - child elements inherit from the parent element
 
 
-## Chapter 2 Basic Javascript Instructions
+## Chapter 2 Basic JavaScript Instructions
 
 Script - series of instruction a computer follows one-by-one
 
@@ -51,6 +51,6 @@ Recap of the following topics:
 
 ## Chapter 4 Decisions and Loops
 Recap of the following topics:
-- Comparision operators (== or !=)
+- Comparison operators (== or !=)
 - Logical Operators (&&, ||, !)
 - If-Else statements
