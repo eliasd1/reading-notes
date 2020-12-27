@@ -62,4 +62,4 @@ Not all instructions are executed, depends on how the code is written
 - Can add logic to a code, like "if this happens then do this else do that"
 - Web pages can be made interactive using JavaScript
 
-[Previous reading note on some of the chapters mention aboved](../code102/read-04.md)
+[Previous reading note on some of the chapters mention aboved](../code102/read04.md)
