@@ -1,4 +1,5 @@
-# Topics Learnt Today
+# What I Learnt Today
+
 ## Reset CSS
 - Some CSS properties or rules are predefined (like padding or margins) by the browser
 - Resetting CSS removes these predefined CSS rules (making the default values to zero)
