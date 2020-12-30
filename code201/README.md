@@ -8,3 +8,4 @@ Links to my notes:
 - [Class-02 reading notes](class-02.md)
 - [Class-03 reading notes](class-03.md)
 - [Class-04 reading notes](class-04.md)
+- [Class-05 reading ntoes](class-05.md)
