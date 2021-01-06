@@ -34,5 +34,5 @@ Each execution context can access its parent's variables object
 
 If Javascript generates an error, it throws an exception. Javascript has 7 different types of errors and each error creates its own error object. Browsers have tools to help you read error objects
 
-You can handle errors using the try, catch, finally statments 
+You can handle errors using the try, catch, finally statements 
 
