@@ -14,3 +14,5 @@ Links to my notes:
 - [Class-08 reading notes](class-08.md)
 - [Class-09 reading notes](class-09.md)
 - [Class-10 reading notes](class-10.md)
+- [Class-11 reading notes](class-11.md)
+- [Class-12 reading notes](class-12.md)
