@@ -1,6 +1,7 @@
 # What I Learnt Today
 
-# Forms and Events
+## Forms and Events
+
 - forms are used to get data from a user
 - input element is used to provide a field to enter data to the user
 - you can add placeholders to inputs
@@ -13,7 +14,7 @@
 - preventdefault method is used to prevent any default behaviors of the form, such as refreshing the page
 - you can get data from an input in the callback function using the event parameter
 
-# JS Chapter 10 Error Handling and Debugging
+## JS Chapter 10 Error Handling and Debugging
 
 Three execution contexts:
 - Global Context - code in a script but not in a function, only one in any page, 
