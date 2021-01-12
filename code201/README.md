@@ -16,3 +16,5 @@ Links to my notes:
 - [Class-10 reading notes](class-10.md)
 - [Class-11 reading notes](class-11.md)
 - [Class-12 reading notes](class-12.md)
+- [Class-13 reading notes](class-13.md)
+- [Class-14a reading notes](class-14a.md)
