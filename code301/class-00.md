@@ -31,3 +31,11 @@ Absolutely positioned elements are removed from the flow of the webpage
 Four valid values for the float property: left, right, none, and inherit
 
 Clear property - will move an element down past the float and not up adjacent to the float
+
+## SMACCS
+
+- Base.css - contains general styling, applied to elements such as body and main
+- Layout.css - contains general positioning on the page, applied to header,footer,nav, aside
+- Module.css - contains styling of smaller components, such as indivdual images or specific paragraphs
+- State.css - contains any styling the changes upon user interaction
+- Theme.css - used when applying temporary changes
