@@ -29,3 +29,4 @@
 ## Code 301 - Intermediate Software Development
 
 - [Class 00-reading notes](./code301/class-00.md)
+- [Class 01-reading notes](./code301/class-01.md)
