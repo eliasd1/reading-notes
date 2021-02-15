@@ -1,6 +1,6 @@
 # What I Learnt Today
 
--Arrow fucntions
+- Arrow fucntions
 - MVC:
     - Model - data related to an object (ex. constructor)
     - View - everything that user sees
