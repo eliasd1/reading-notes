@@ -37,3 +37,4 @@
 - [Class 06-reading notes](./code301/class-06.md)
 - [Class 07-reading notes](./code301/class-07.md)
 - [Class 08-reading notes](./code301/class-08.md)
+- [Class 09-reading notes](./code301/class-09.md)
