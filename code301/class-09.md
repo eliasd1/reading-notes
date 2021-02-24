@@ -1,5 +1,7 @@
 # What I Learnt Today
 
+- How to refactor my code to make it more readable
+
 ## Call Stack
 
 - helps interpreter (like JS) keep track of its place in a script that calls multiple functions
