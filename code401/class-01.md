@@ -21,5 +21,3 @@ Expressions
 Control Flow Statements
 
 - code is executed from top to bottom
-
-

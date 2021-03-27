@@ -44,3 +44,5 @@
 - [Class 13-reading notes](./code301/class-13.md)
 
 ## Code 401 - Advanced Software Development
+
+- [Class 01-reading notes](./code401/class-01.md)
