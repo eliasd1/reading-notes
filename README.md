@@ -57,3 +57,4 @@
 - [Class 27-reading notes](./code401/class-27.md)
 - [Class 28-reading notes](./code401/class-28.md)
 - [Class 29-reading notes](./code401/class-29.md)
+- [Class 30-reading notes](./code401/class-30.md)
