@@ -52,6 +52,7 @@
 - [Class 05-reading notes](./code401/class-05.md)
 - [Class 06-reading notes](./code401/class-06.md)
 - [Class 08-reading notes](./code401/class-08.md)
+- [Class 09-reading notes](./code401/class-09.md)
 - [Class 12-reading notes](./code401/class-12.md)
 - [Class 13-reading notes](./code401/class-13.md)
 - [Class 27-reading notes](./code401/class-27.md)
