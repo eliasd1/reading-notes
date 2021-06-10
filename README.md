@@ -66,4 +66,5 @@
 - [Class 36-reading notes](./code401/class-36.md)
 - [Class 37-reading notes](./code401/class-37.md)
 - [Class 38-reading notes](./code401/class-38.md)
+- [Class 41-reading notes](./code401/class-41.md)
 - [Class 42-reading notes](./code401/class-42.md)
