@@ -60,6 +60,7 @@
 - [Class 29-reading notes](./code401/class-29.md)
 - [Class 31-reading notes](./code401/class-31.md)
 - [Class 32-reading notes](./code401/class-32.md)
+- [Class 33-reading notes](./code401/class-33.md)
 - [Class 36-reading notes](./code401/class-36.md)
 - [Class 42-reading notes](./code401/class-42.md)
 
